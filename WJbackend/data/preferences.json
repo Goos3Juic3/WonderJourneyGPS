@@ -1,0 +1,17 @@
+{
+  "userId": 1,
+  "username": "demo_user",
+  "categoryWeights": {
+    "gym": 2,
+    "hotel": 1,
+    "restaurant": 1,
+    "bar": -2,
+    "entertainment": 1
+  },
+  "mustHave": [
+    "gym"
+  ],
+  "mustAvoid": [
+    "bar"
+  ]
+}
