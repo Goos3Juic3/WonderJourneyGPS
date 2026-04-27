@@ -17,6 +17,12 @@ python app.py
 Send a POST request to `/town-summary` with JSON like:
 ```json
 {
-  "town": "Springfield"
+  "town": "Dallas"
+}
+```
+OR
+```json
+{
+  "town": "Texarkana"
 }
 ```
